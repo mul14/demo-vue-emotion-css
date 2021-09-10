@@ -1,4 +1,4 @@
-# tiga
+# Demo Vue.js v3 + Emotion CSS
 
 ## Project setup
 ```
